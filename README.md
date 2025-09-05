@@ -1,2 +1,4 @@
 # JerryChou_repo
-大家好 這是我的第一個repo  我剛開始使用 也剛學程式沒多久 我學過C語言跟swift  目標是開發自己的APP 請多指教
+- 學過C & Swift    / I have leaered C & Swift.
+- 目標是開發一個 ios APP / My goal is to develop a app.
+- 喜歡學習新東西 了解趨勢 / I enjoy learning new things, keeping up with the trends.
